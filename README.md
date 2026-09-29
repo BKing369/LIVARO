@@ -1,5 +1,6 @@
 # LIVARO
 src/
+
 ├── components/        (reusable components)
 ├── pages/            (page components)
 ├── layouts/          (layout wrappers)
