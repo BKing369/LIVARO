@@ -1,0 +1,11 @@
+src/
+├── components/        (reusable components)
+├── pages/            (page components)
+├── layouts/          (layout wrappers)
+├── styles/           (global styles)
+├── types/            (TypeScript types)
+├── utils/            (helpers, constants)
+├── hooks/            (custom React hooks)
+├── assets/           (images, icons, fonts)
+└── App.tsx
+└── main.tsx
